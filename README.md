@@ -26,3 +26,4 @@ ps
 * 问卷管理![image](https://github.com/jjs1233/judge/blob/master/Public/images/show2.png)
 * 手机答题页面</br>
 <img width="180px" src="https://github.com/jjs1233/judge/blob/master/Public/images/show3.png"/>
+1
